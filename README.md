@@ -1,6 +1,6 @@
 some macros for dicts
 
-creates `hashmap`, `hashset`, `btreeset`, `btreemap
+creates `hashmap`, `hashset`, `btreeset`, `btreemap`
 
 map has two sytaxts
 
