@@ -1,0 +1,16 @@
+[package]
+name = "collections_macros"
+version = "0.1.0"
+edition = "2021"
+description = "a collection of macros to make making collections easier"
+
+
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/lizelive/collections_macros"
+homepage = "https://github.com/lizelive/collections_macros"
+
+keywords = ["collections", "identifiers", "keywords", "macros"]
+categories = ["rust-patterns"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
